@@ -1,6 +1,6 @@
 # Matador de Monstros
 
-Praticando.
+Praticando durante o curso de Vue JS 2 feito na plataforma de ensino Udemy ministrado por Leonardo Moura Leitao.
 
 ## Tecnologias Utilizadas
 
